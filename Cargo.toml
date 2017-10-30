@@ -8,4 +8,4 @@ version = "0.2.0"
 
 [dependencies]
 protobuf = "^1.0.24"
-serde_json = "0.9"
+serde_json = "1.0"
